@@ -59,27 +59,6 @@ A **comprehensive e-commerce analytics platform** built entirely in SQL (Postgre
 - ✅ **Fully Documented** - Every query explained with business context
 - ✅ **Realistic Data** - 1,000+ orders with proper relationships and constraints
 
----
-
-## 💡 Why This Project?
-
-Most SQL projects show basic CRUD operations. This demonstrates:
-
-| What Recruiters See | What This Shows |
-|---------------------|-----------------|
-| Basic SELECT queries | Complex 7-table JOINs with subqueries |
-| Simple aggregations | Window functions (NTILE, LAG, LEAD) |
-| Static reports | Dynamic cohort and trend analysis |
-| Tutorial exercises | Real business problem solving |
-| No optimization | 50x performance gains with materialized views |
-
-**Perfect for:**
-- 📚 Data Analyst portfolio projects
-- 💼 SQL interview preparation
-- 🎓 Learning advanced SQL techniques
-- 🏢 E-commerce analytics templates
-
----
 
 ## ✨ Features
 
